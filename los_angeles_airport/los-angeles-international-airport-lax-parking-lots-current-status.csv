@@ -1,0 +1,10 @@
+Key_Value,LotDescription,ParkingID,ParkingName,TotalParkingSpaces,Occupied,FreeSpaces,FullCapacity,Color,DataExportDateTime,Long,Lat
+c1000,Lot 1 Occupancy,P1,P-1,1432,191,1241,13,Green,2019-06-07T15:05:00,-118.400495,33.944751
+c2000,Lot 2A Occupancy,P2A,P-2A,735,512,223,70,Yellow,2019-06-07T15:05:00,-118.404111,33.944751
+c2001,LOT 2B Occupancy,P2B,P-2B,631,615,16,97,Red,2019-06-07T15:05:00,-118.405227,33.944422
+c3000,Lot 3 Occupancy,P3,P-3,Not Available,Not Available,Not Available,No Data,Grey,2019-06-07T15:05:00,-118.407223,33.944306
+c4000,Lot 4 Occupancy,P4,P-4,Not Available,Not Available,Not Available,No Data,Grey,2019-06-07T15:05:00,-118.406998,33.943104
+c5000,Lot 5 Occupancy,P5,P-5,673,567,106,84,Orange,2019-06-07T15:05:00,-118.405185,33.943273
+c6000,Lot 6 Occupancy,P6,P-6,899,764,135,85,Orange,2019-06-07T15:05:00,-118.403672,33.943255
+c7000,Lot 7 Occupancy,P7,P-7,Not Available,Not Available,Not Available,No Data,Grey,2019-06-07T15:05:00,-118.399853,33.943851
+c9001,Lot E Occupancy,PE,Lot E,2211,2127,84,96,Red,2019-06-07T15:00:00,-118.375638,33.934584

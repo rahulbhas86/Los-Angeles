@@ -1,0 +1,54 @@
+ID,SubjectText,BodyText,ExpiredDate,LastUpdated,DayOrNight,BeginTime,EndTime,ClosureType,DataExportDateTime,Latitude,Longitude,Geo_Location,ConstructionStartDate,VoiceResponse,Zip Codes,Census Tracts,Precinct Boundaries,LA Specific Plans,Council Districts,Neighborhood Councils (Certified)
+426,Intermittent Lane Closures on Arbor Vitae Street/Westchester Parkway,"Intermittent lane closures will be implemented on Arbor Vitae Street/Westchester Parkway between Bellanca Avenue and Will Rogers Place to facilitate utility investigations and construction of the LA Department of Water & Power (LADWP) Westchester Ductbank. 
+
+Flaggers will be present as needed. Access to local businesses will be maintained at all times.
+Dates: 
+Saturday, March 23, 2019 through Saturday, August 31, 2019 
+*Dates and times subject to change. 
+
+Time: 
+Daily: Monday through Friday 9 AM to 3:30 PM 
+Nightly: Monday through Friday 9 PM to 6 AM 
+Weekends: Saturday and Sunday 8 AM to 6 PM",2019-08-31T00:00:00.000,2019-05-09T08:20:38.000,Continuous,,,Road Closure,2019-05-09T08:20:38.000,33.95268221125305,-118.38494036781628,"{'longitude': '-118.38494036781628', 'latitude': '33.95268221125305', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-03-23T00:00:00.000,"Intermittent Lane Reductions on Arbor Vitae St./Westchester Pkwy. March 23, 2019 through August 31, 2019",23676,934,1070,10,10,16
+404,Roadway Closure: East / West Ramp to Upper West Way,"Beginning Friday, September 7 at 1AM, the east / west ramp leading to and descending from Upper West Way will close. It will not re-open.",9999-12-31T00:00:00.000,2018-11-07T11:21:34.000,Continuous,1AM,,Road Closure,2018-11-07T11:21:34.000,33.94367792800096,-118.40683700153164,"{'longitude': '-118.40683700153164', 'latitude': '33.94367792800096', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2018-09-07T00:00:00.000,"Beginning Friday, September 7 , the east / west ramp leading to and descending from Upper West Way will close.",23676,2340,445,12,10,16
+439,Underground Utility Work on 96th Street,"Activity: 
+LAX Integrated Express Solutions (LINXS) will be conduct underground utility work on 96th Street in preparation for construction of the Automated People Mover guideway. This will require temporary no parking zone on 96th Street east of Airport Boulevard. LINXS will utilize day and night shifts to complete this work.
+�
+Through access and access to businesses will be maintained at all times. Flaggers will be on site as needed.
+�
+Date:
+Monday, January 2, 2019 through Monday, June 17, 2019
+*Dates and times subject to change.",2019-06-17T00:00:00.000,2019-05-17T08:09:57.000,Continuous,,,Road Closure,2019-05-17T08:09:57.000,33.94942353487898,-118.3824828382642,"{'longitude': '-118.3824828382642', 'latitude': '33.94942353487898', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-01-02T00:00:00.000,"Underground utility work on 96th St. from January 2, 2019 through June 17, 2019.",23676,934,445,10,10,16
+390,Surface Lot 3 Closed,"Surface Lot 3 within the Central Terminal Area is closed through May 29, 2023 for construction activities for the Automated People Mover.",2023-05-29T00:00:00.000,2018-11-07T11:21:09.000,Continuous,,,Road Closure,2018-11-07T11:21:09.000,33.944379128878154,-118.40620450477445,"{'longitude': '-118.40620450477445', 'latitude': '33.944379128878154', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2018-05-29T00:00:00.000,"Surface lot 3 will be closed to the public through May 29, 2023",23676,2340,445,12,10,16
+416,Lane Restriction: Departures Level Drop-Off / Pick-Up Lanes between Terminals 1 & 2,"Terminal 1.5 constructionwill restrict portions of the Departures Level sidewalk between Terminal 1 and Terminal�2, requiring pedestrians to be detoured into�the Drop-Off / Pick-Up Lane�through March 2020.",2020-03-29T00:00:00.000,2019-03-20T15:48:42.000,Continuous,,,Road Closure,2019-03-20T15:48:42.000,33.945362718610845,-118.40248546667158,"{'longitude': '-118.40248546667158', 'latitude': '33.945362718610845', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-01-19T00:00:00.000,Departures Level Drop-Off / Pick-Up Lane between Terminals 1 and 2 will be restricted through March 2020,23676,2340,445,12,10,16
+401,Surface Lot 4 Closed,"Surface Lot 4 within the Central Terminal Area is closed through May 29, 2023 for construction activities for the Automated People Mover.",2023-05-29T00:00:00.000,2018-11-07T11:23:36.000,Continuous,,,Road Closure,2018-11-07T11:23:36.000,33.9431696522443,-118.40615869756607,"{'longitude': '-118.40615869756607', 'latitude': '33.9431696522443', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2018-08-01T00:00:00.000,"Surface lot 4 will be closed to the public through May 29, 2023",23676,2340,445,12,10,16
+437,Overnight Single Lane Closures on 96th Street between Avion Drive and Vicksburg Avenue,"Overnight single lane closures will be implemented on eastbound and westbound lanes of 96th Street between Avion Drive and Vicksburg Avenue.
+
+Through traffic will be maintained. Flaggers will be on site as needed. 
+�
+Date:
+Friday, May 3, 2019 through Saturday, June 15, 2019 
+*Dates and times are subject to change. 
+�
+Time:
+Monday through Friday 9 PM to 6 AM",2019-06-15T00:00:00.000,2019-05-01T16:15:20.000,Night,9 PM,6 AM,Road Closure,2019-05-01T16:15:20.000,33.948844210038494,-118.39194297252004,"{'longitude': '-118.39194297252004', 'latitude': '33.948844210038494', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-05-03T00:00:00.000,Overnight single lane closures on eastbound and westbound lanes of 96th Street between Avion Drive and Vicksburg Avenue.,23676,2340,445,12,10,16
+402,Roadway Closure: Center Way between PS-3 and PS-4,"Automated People Mover (APM) construction will close Center Way between Parking Structure 3 (PS3) and Parking Structure 4 (PS4). The sidewalk at this area will also close. This portion of Center Way will not re-open. This is the area where airline crew and charter buses previously staged. Moving forward, these buses will be relocated to the Interim Bus Lot at Surface Lot 3. This is located east of Parking Structure 3.",9999-12-31T00:00:00.000,2018-11-07T11:22:07.000,Continuous,1AM,,Road Closure,2018-11-07T11:22:07.000,33.94361254222481,-118.40750880172334,"{'longitude': '-118.40750880172334', 'latitude': '33.94361254222481', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2018-09-07T00:00:00.000,"As of Friday, September 7 at 1 AM, Center Way between Parking Structure 3 and Parking Structure 4 will close. It will not re-open.",23676,2340,445,12,10,16
+432,Lane Restrictions: Arrivals Level Inner Lanes at Terminal 3,"Delta Sky Way construction will restrict portions of all Arrivals Level Inner Lanes at Terminal 3 (between Columns 3C and 3H) through August 8, 2019.",2019-08-08T00:00:00.000,2019-04-10T11:27:56.000,Continuous,,,Road Closure,2019-04-10T11:27:56.000,33.94473999595501,-118.40711018061728,"{'longitude': '-118.40711018061728', 'latitude': '33.94473999595501', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-04-08T00:00:00.000,"All Arrivals Level Inner Lanes at Terminal 3 will be closed through August 8, 2019",23676,2340,445,12,10,16
+438,Lane Closures on Airport Boulevard between 93rd Street and 96th Street,"Single lane closures will be implemented on northbound and southbound Airport Boulevard between 93rd Street and 96th Street. The closures will be conducted to facilitate demolition and sidewalk work to support components of the Landside Access Modernization Program (LAMP). 
+�
+Flaggers will be present as needed. Access to businesses will be maintained. 
+�
+Date:
+Monday, April 15, 2019 through Friday, June 14, 2019
+*Dates and times are subject to change. 
+�
+Time:
+Daily Closures: Monday through Friday 9 AM to 3:30 PM 
+Continuous Weekend Closures: Friday through Monday 7 PM to 6 AM",2019-06-14T00:00:00.000,2019-06-05T10:44:19.000,Continuous,,,Road Closure,2019-06-05T10:44:19.000,33.95113146933709,-118.38601723930355,"{'longitude': '-118.38601723930356', 'latitude': '33.95113146933709', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-04-15T00:00:00.000,"Lane Closures on Airport Boulevard between 93rd Street and 96th Street through June 14, 2019.",23676,2340,445,12,10,16
+443,Lane Closures on Aviation Boulevard between Arbor Vitae Street and Century Boulevard,"Activity:
+Lane closures and lane shifts will be implemented on Aviation Boulevard between Arbor Vitae Street and Century Boulevard to complete construction of a detour roadway (see graphic below). The detour roadway is being built to maintain the flow of traffic around Aviation Boulevard during work for the future extension of 98th Street. The 98th Street extension project is a roadway improvement component of the Landside Access Modernization Program (LAMP).
+Access to businesses will be maintained. Flaggers will be on site as needed.
+Time:��
+Daily: Monday through Friday 24/7; one northbound and one southbound lane closed.
+Intermittent Nights: Monday through Friday 9 PM to 6 AM; all northbound and southbound lanes closed.
+Intermittent Continuous Weekend Closures: Friday 9 PM through Monday 6 AM; all northbound and southbound lanes closed.",2019-07-15T00:00:00.000,2019-06-06T09:47:03.000,Continuous,,,Road Closure,2019-06-06T09:47:03.000,33.94682930139731,-118.37849997238845,"{'longitude': '-118.37849997238845', 'latitude': '33.94682930139731', 'human_address': '{""address"": """", ""city"": """", ""state"": """", ""zip"": """"}'}",2019-06-06T00:00:00.000,Lane Closures on Aviation Boulevard between Arbor Vitae Street and Century Boulevard June 6 through July 15,23676,935,445,10,10,16
